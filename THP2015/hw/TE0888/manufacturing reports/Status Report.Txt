@@ -1,0 +1,14 @@
+Output: PP-TE0723-01
+Type  : BOM
+From  : Variant [Default] of Project [TE0723-Arduino.PrjPCB]
+   Generated File[PP-TE0723-01.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+<<<<<<< .mine
+Finished Output Generation At 18:42:06 On 20.05.2015
+=======
+Finished Output Generation At 20:16:42 On 19.07.2015
+>>>>>>> .r3453
