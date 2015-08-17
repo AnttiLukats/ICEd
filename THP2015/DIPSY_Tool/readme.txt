@@ -1,0 +1,1 @@
+When HX1K is configured with this BIN file, then FTDI Channel B works as USB SPI interface to the DIPSY socket SPI pins.
