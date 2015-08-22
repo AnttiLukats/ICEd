@@ -1,0 +1,22 @@
+# ##############################################################################
+# Constraint for ICEd board to be used DISPY in socket Programmer
+# ##############################################################################
+
+
+set_io BDBUS2 7
+set_io BDBUS6 1
+set_io BDBUS7 10
+set_io DIPSY_RESET 45
+set_io DIPSY_SS 49
+set_io BDBUS0 9
+set_io BDBUS4 3
+set_io DIPSY_DONE 52
+set_io DIPSY_MISO 39
+set_io LED_B 97
+set_io LED_R 99
+set_io BDBUS1 8
+set_io DIPSY_MOSI 41
+set_io DIPSY_SCK 38
+set_io LED_G 98
+set_io LED_small 96
+
