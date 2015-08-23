@@ -1,0 +1,1 @@
+FTDI Channel B UART to ESP8266 socket pass-through, tested

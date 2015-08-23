@@ -1,0 +1,12 @@
+set_io ESP_GPIO2 76
+set_io ESP_TXD 93
+set_io BDBUS1 8
+set_io ESP_RXD 94
+set_io LED_G 98
+set_io LED_small 96
+set_io BDBUS0 9
+set_io ESP_GPIO0 75
+set_io ESP_RESET 74
+set_io LED_B 97
+set_io LED_R 99
+
